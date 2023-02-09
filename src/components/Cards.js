@@ -5,7 +5,7 @@ import Img2 from '../components/Images/Css1.png';
 import Img3 from '../components/Images/js.png';
 import Img4 from '../components/Images/Bootstrap.png'
 import Img5 from '../components/Images/React.png'
-import Img6 from '../components/Images/firebase.jpg'
+import Img6 from '../components/Images/git.png'
 
 
 export default function Cards() {
@@ -71,7 +71,7 @@ export default function Cards() {
                             <div className="card" style={{ width: "18rem" }}>
                                 <img src={Img6} className="card-img-top" alt="..." />
                                 <div className="card-body">
-                                    <p className="card-text">Firebase is a set of hosting services for any type of application (Android, iOS, Javascript, Node.js, Java, Unity, PHP, C++ ...). It offers NoSQL and real-time hosting of databases, content, social authentication (Google, Facebook, Twitter and Github), and notifications, or services, such as a real-time communication server.</p>
+                                    <p className="card-text">Git is a DevOps tool used for source code management. It is a free and open-source version control system used to handle small to very large projects efficiently. Git is used to tracking changes in the source code, enabling multiple developers to work together on non-linear development. Linus Torvalds created Git in 2005.</p>
                                 </div>
                             </div>
                         </div>
