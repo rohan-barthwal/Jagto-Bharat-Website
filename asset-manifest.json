@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.490bdba3.css",
+    "main.js": "/static/js/main.3776155b.js",
+    "static/js/787.a6a9f8de.chunk.js": "/static/js/787.a6a9f8de.chunk.js",
+    "static/media/Rohan Resume new 3.pdf": "/static/media/Rohan Resume new 3.76ffd3e11079cf616688.pdf",
+    "static/media/js.png": "/static/media/js.6045d5983b1623969016.png",
+    "static/media/bg4.jpg": "/static/media/bg4.85bb7a9b575c4ed37329.jpg",
+    "static/media/city.jpg": "/static/media/city.c09ded223c34fc23b3de.jpg",
+    "static/media/html3.png": "/static/media/html3.cf66b53dbb6cf2487504.png",
+    "static/media/ReactImage1.png": "/static/media/ReactImage1.233d97934869f200c342.png",
+    "static/media/ReactImage2.png": "/static/media/ReactImage2.c4cf2b8f74b61da35f16.png",
+    "static/media/ReactImage3.png": "/static/media/ReactImage3.fbac0dc8e665c60e23aa.png",
+    "static/media/meerut.jpg": "/static/media/meerut.276327c0c7863a3f382d.jpg",
+    "static/media/React.png": "/static/media/React.35639ed930462bfcd544.png",
+    "static/media/stfra.jpg": "/static/media/stfra.96967e65690d27adcf99.jpg",
+    "static/media/git.png": "/static/media/git.968d42a17d48d8106871.png",
+    "static/media/Css1.png": "/static/media/Css1.92f3512eed855b5d7ec5.png",
+    "index.html": "/index.html",
+    "main.490bdba3.css.map": "/static/css/main.490bdba3.css.map",
+    "main.3776155b.js.map": "/static/js/main.3776155b.js.map",
+    "787.a6a9f8de.chunk.js.map": "/static/js/787.a6a9f8de.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.490bdba3.css",
+    "static/js/main.3776155b.js"
+  ]
+}
